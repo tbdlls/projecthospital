@@ -72,19 +72,19 @@
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADDISON_H</LocID>										<Text>โรคแอดดิสัน</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ADDISON_DESCRIPTION</LocID>							<Text>โรคแอดดิสัน หรือภาวะต่อมหมวกไตบกพร่องปฐมภูมิ คือความผิดปกติระยะยาวของต่อมไร้ท่อ โดยที่ต่อมหมวกไตไม่สามารถผลิตฮอร์โมนสเตียรอยด์ได้อย่างเพียงพอ</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ENZ_F</LocID>									<Text>การสกัดกั้นของเอนไซม์ 21-OH</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ENZ_H</LocID>									<Textการสกัดกั้นของเอนไซม์ 21-OH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ENZ_H</LocID>									<Text>การสกัดกั้นของเอนไซม์ 21-OH</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ENZ_DESCRIPTION</LocID>							<Text>เหล่านี้คือโรคทายกรรมลักษณะด้อยต่าง ๆ ที่เกี่ยวข้องกับการเปลี่ยนแปลงของยีนที่เกี่ยวกับการถอดรหัส 21-hydroxylase โดยที่คอร์ติซอลและแอลโดสเตอโรนถูกสังเคราะห์อย่างไม่ปกติ</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ICT</LocID>											<Text>ภาวะคอร์ติโคโทรปีนบกพร่อง</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ICT_DESCRIPTION</LocID>								<Text>ภาวะบกพร่องของต่อมหมวกไตกลาง หรือภาวะคอร์ติโคโทรปีนบกพร่อง มาจากต่อมใต้สมองหรือไฮโปทาลามัส ซึ่งอาจเกิดการไม่ต่อเนื่องกันจากการบำบัดด้วยคอร์ดิโคสเตียรอยด์ (ในกรณีทั่วๆ ไป)</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPO_PT_AA</LocID>									<Text>ภาวะภูมิคุ้มกันฮอร์โมนพาราไทรอยด์สูง</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPO_PT_AA_DESCRIPTION</LocID>						<Text>โรคฮอร์โมนพาราไทรอยด์สูง สามารถเกิดขึ้นได้ยาก โดยจะเกิดขึ้นจากต่อมพาราไทรอยด์ไม่สามารถผลิตฮอร์โมนพาราไทรอยด์ได้ในปริมาณที่เพียงพอ หรือฮอร์โมนพาราไทรอยด์ที่ถูกผลิตมานั้นมีปฏิกิริยาทางชีวภาพไม่เพียงพอ ต่อมพาราไทรอยด์เป็นส่วหนนึ่งของระบบต่อมไร้ท่อ ฮอร์โมนเหล่านี้ควบคุมกระบวนการทางเคมี (กระบวนการเผาผลาญอาหาร) ที่มีอิทธิผลต่ออวัยวะต่าง ๆ และกิจกรรมภายในร่างกา</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPER_PT</LocID>										<Text>Primary hyperparathyroidism</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPER_PT</LocID>										<Text>ภาวะฮอร์โมนต่อมพาราไทรอยด์สูงปฐมภูมิ </Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPER_PT_DESCRIPTION</LocID>							<Text>Hyperparathyroidism is an increase in parathyroid hormone (PTH) levels in the blood. When this occurs from a disorder either within the parathyroid glands it's called primary hyperparathyroidism.</Text>	</GameDBLocalizedString>
 			
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CONN</LocID>											<Text>Conn's syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CONN_DESCRIPTION</LocID>								<Text>Primary aldosteronism, also known as primary hyperaldosteronism or Conn's syndrome, refers to the excess production of the hormone aldosterone from the adrenal glands, resulting in low renin levels. Conn's adenoma is a benign tumor of the adrenal cortex.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HBL_SRN</LocID>										<Text>Bilateral adrenal hyperplasia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HBL_SRN_DESCRIPTION</LocID>							<Text>In bilateral hyperplasia, the excessive and uncontrolled production of aldosterone depends on the two adrenal glands.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CONN</LocID>											<Text>ภาวะการทำงานต่อมเหนือไตผิดปกติ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_CONN_DESCRIPTION</LocID>								<Text>ภาวะการทำงานต่อมเหนือไตผิดปกติ หมายถึงการผลิตที่มากเกินไปของฮอร์โมนแอลโดสทิโรน์จากต่อมหมวกไต เป็นผลที่ทำให้ระดับเรนินต่ำ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HBL_SRN</LocID>										<Text>ภาวะการงอกเกินของต่อมหมวกไตทั้งสอง</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HBL_SRN_DESCRIPTION</LocID>							<Text>ในภาวะการงอกเกินทั้งสองข้าง การผลิตที่มากเกินไปและไม่สามารถควบคุมได้ของแอลโดสทิโรน์ขึ้นอยู่กับต่อมหมวกไตทั้งสองฝั่ง</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_INSULINOME</LocID>									<Text>Insulinoma</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_INSULINOME_DESCRIPTION</LocID>						<Text>An insulinoma is a tumor of the pancreas that is derived from beta cells and secretes insulin. It is a rare form of a neuroendocrine tumor. Most insulinomas are benign in that they grow exclusively at their origin within the pancreas, but a minority metastasize.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_HGP</LocID>										<Text>NIPHS</Text>	</GameDBLocalizedString>
