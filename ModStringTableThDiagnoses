@@ -1,8 +1,8 @@
 <Database>
     <GameDBStringTable ID="LOC_EN_ADDON_MORE_DG_DIAGNOSES">
 
-        <LanguageCode>en</LanguageCode>
-        <LanguageNameLocalized>English</LanguageNameLocalized>
+        <LanguageCode>th</LanguageCode>
+        <LanguageNameLocalized>Thai</LanguageNameLocalized>
 
         <Contributors>
 			<Name>Panraiwa</Name>
@@ -116,12 +116,12 @@
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_WILLEBRAND</LocID>							<Text>โรควอนวิลลิแบรนด์</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_WILLEBRAND_DESCRIPTION</LocID>				<Text>โรควอนวิลลิแบรนด์ (vWD) เป็นโรคที่พบเจอได้บ่อยในมนุษย์ที่มีความผิดปกติของลิ่มเลือด ซึ่งเกิดขึ้นจากการหย่อนประสิทธิภาพในคุณภาพหรือปริมาณของวอนวลิลิแบรนดแฟคเตอร์ (vWF) มัลติเมอริกโปรตีนเป็นสิ่งจำเป็นสำหรับการยึดติดของเกล็ดเลือด</Text>	</GameDBLocalizedString>
 <!-- v0.03.2  -->
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_NIEMANN-PICK</LocID>								<Text>Niemann-Pick disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_NIEMANN-PICK_DESCRIPTION</LocID>					<Text>Niemann-Pick disease type C (NP-C) is a lysosomal lipid storage disease.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_KIMURA</LocID>									<Text>Kimura disease</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_KIMURA_DESCRIPTION</LocID>						<Text>Kimura disease is a benign and chronic inflammatory disorder of unknown etiology, occurring mainly in Asian countries (very rarely in Western countries) and predominantly affecting young men.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FANCONI</LocID>									<Text>Fanconi anemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FANCONI_DESCRIPTION</LocID>						<Text>Fanconi anemia (FA) is a hereditary DNA repair disorder. FA is due to mutations in genes involved in DNA repair and genomic stability. Fifteen genes representing 15 complementation groups have been identified.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_NIEMANN-PICK</LocID>								<Text>โรคนิเมน-พิค</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_NIEMANN-PICK_DESCRIPTION</LocID>					<Text>โรคนิเมน-พิคชนิด C (NP-C) เป็นโรคความผิดปกติของการสะสมไขมัน</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_KIMURA</LocID>									<Text>โรคคิมูระ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_KIMURA_DESCRIPTION</LocID>						<Text>โรคคิมูระ เป็นความผิดปกติเกี่ยวเนื่องกับภาวการณ์อักเสบเรื้อรังไม่ร้ายแรงไม่ทราบสาเหตตามสมุฏฐานวิทยา ส่วนใหญ่เกิดขึ้นในประเทศในเอเชีย (หาได้ยากในประเทศตะวันตก)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FANCONI</LocID>									<Text>ภาวะเลือดจางแฟนโคนิ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FANCONI_DESCRIPTION</LocID>						<Text>ภาวะเลือดจางแฟนโคนิ (FA) คือความผิดปกติทางพันธุกรรมที่ไม่สามารถซ่อมแซมดีเอ็นเอได้ ภาวะเลือดจางแฟนโคนิเกิดจากการเปลี่ยนแปลงในยีนที่เกี่ยวกับการซ่อมแซมดีเอ็นเอและการสร้างสมดุลของจีโนมิกส์</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BERNARD-SOULIER</LocID>							<Text>Bernard-Soulier syndrome</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BERNARD-SOULIER_DESCRIPTION</LocID>				<Text>Bernard Soulier syndrome (BSS) is an inherited platelet disorder characterized by mild to severe bleeding tendency , macrothrombocytopenia and absent ristocetin-induced platelet agglutination.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_MOREDG_THROMBASTHENIE_GLANDZMANN</LocID>					<Text>Glanzmann thrombasthenia</Text>	</GameDBLocalizedString>
